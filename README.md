@@ -13,9 +13,9 @@ La consigna era Desarrollar un e-commerce utilizando React y una base de datos F
 
 
 Instrucciones
-$ cd desktop
-$ git clone 
-$ npm i
+[1]$ cd desktop
+[2]$ git clone 
+[3]$ npm i
 
 Utilizado
 [React](https://reactjs.org/)
